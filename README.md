@@ -31,7 +31,7 @@
 
 🚀 Live Demo
 
-- 🔗 Check it out here: Dice Game Live
+- 🔗 Check it out here: https://shravan121005.github.io/DRUM-KIT/
 
 🙌 Thank you for visiting!
 
